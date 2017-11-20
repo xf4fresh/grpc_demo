@@ -1,0 +1,13 @@
+
+*.sh
+*.tar.gz
+*.gz
+*.pyc
+
+*_pb2.py
+*_pb2_grpc.py
+*.pb
+*.xml
+*.json
+
+.idea/*
